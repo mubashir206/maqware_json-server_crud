@@ -2,16 +2,23 @@
   "products": [
     {
       "id": "1",
-      "name": "mubashir Product",
-      "description": "This is a sct",
-      "category": "nwwe",
-      "status": "Pending"
+      "name": "domestic product",
+      "description": "domstic product use ",
+      "category": "plastic",
+      "status": "Complete"
     },
     {
       "id": "8243",
       "name": "New foodi",
-      "description": "asdfasdf",
-      "category": "food",
+      "description": "descrioitn reatd to new\n",
+      "category": "foodie",
+      "status": "Pending"
+    },
+    {
+      "id": "5f36",
+      "name": "add product",
+      "description": "sd asldf s",
+      "category": "my category",
       "status": "Complete"
     }
   ]
