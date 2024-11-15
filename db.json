@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "mubashir Product",
+      "description": "This is a sct",
+      "category": "nwwe",
+      "status": "Pending"
+    },
+    {
+      "id": "8243",
+      "name": "New foodi",
+      "description": "asdfasdf",
+      "category": "food",
+      "status": "Complete"
+    }
+  ]
+}
